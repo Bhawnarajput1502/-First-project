@@ -1,3 +1,3 @@
 # -First-project
-This is my first git repository
-Author-Bhawna Rajput
+This is my first git repository.
+Author-Bhawna Rajput.
